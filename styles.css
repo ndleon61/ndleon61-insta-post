@@ -1,0 +1,55 @@
+body{
+    background: black;
+}
+.post{
+    background: white;
+    width: 600px;
+    margin: auto;
+    margin-top: 50px;
+   
+  
+}
+div .post-header {
+    padding: 5px;
+}
+div .names{
+    display: inline-block;
+    width: 80%;
+    line-height: 0;
+    vertical-align: middle;
+}
+
+div .profile-picture {
+    display: inline-block;      
+}
+
+div .dots {
+    display: inline-block;
+    width: 14%;
+    text-align: end;
+}
+
+
+div img {
+    width: 600px;
+    padding: 0;
+}
+
+div .reactions{
+    padding: 10px;
+}
+
+div .post-body{
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+div .first-reactions{
+    display: inline-block;  
+}
+
+div .bookmark {
+    float: right;
+    
+}
